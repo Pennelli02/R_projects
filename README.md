@@ -150,4 +150,3 @@ Mit
 
 ---
 
-**Nota**: Progetto sviluppato per scopi educativi e di ricerca. L'uso deve essere conforme alle normative su privacy e AI.
