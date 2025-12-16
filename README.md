@@ -111,9 +111,6 @@ Implementazione di 3 metodi di selezione:
 - **BIC** (Bayesian): `BIC = -2log(L) + k·log(n)` (k=log(n))
 - **Verosimiglianza**: senza penalizzazione (k=0)
 
-**3. Libreria SignifReg**
-- Test multipli con aggiustamento Bonferroni/FDR
-- Procedure automatiche con diversi criteri
 
 ## Installazione
 
